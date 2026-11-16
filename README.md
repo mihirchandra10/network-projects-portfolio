@@ -23,4 +23,4 @@ Case studies of enterprise, carrier and government network projects I planned, d
 
 **Routing:** BGP (communities, multi-homing), OSPF, static, MPLS, GRE · **Security:** zone-based firewall policy, UTM/IPS/AV, IPsec site-to-site and dynamic VPN, ACLs, DDoS mitigation · **High availability:** firewall clusters (Palo Alto, SRX), router/switch redundancy, wireless controller HA · **Vendors:** Juniper, Palo Alto, Fortinet, Ruckus, MikroTik, Brocade, HP
 
-Hands-on lab configurations for these technologies: [network-security-labs](https://github.com/mihirchandra10/network-security-labs) · [network-config-templates](https://github.com/mihirchandra10/network-config-templates)
+Security-focused write-ups of these projects: [network-security-projects](https://github.com/mihirchandra10/network-security-projects) · Example configurations: [network-security-labs](https://github.com/mihirchandra10/network-security-labs) · [network-config-templates](https://github.com/mihirchandra10/network-config-templates)
