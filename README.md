@@ -10,7 +10,7 @@
 
 | Period | Company | Role | Network scope |
 |---|---|---|---|
-| Dec 2025 – now | **Synesis IT PLC** | Asst. Manager, Infrastructure Solutions | Manage and support routers, switches and firewalls · VPN solutions for secure connectivity · monitor, troubleshoot and optimise network, server and security systems |
+| Dec 2025 – now | **Synesis IT PLC** | Manager, Infrastructure Solutions | Manage and support routers, switches and firewalls · VPN solutions for secure connectivity · monitor, troubleshoot and optimise network, server and security systems |
 | Sep 2024 – Dec 2025 | **RASA Technologies** (partner of OEMs) | Manager, Infrastructure Solutions | Cloud platform optimisation (AWS, Azure, GCP) · monitoring, logging and alerting for applications and infrastructure |
 | Jan 2020 – Aug 2024 | **Open Communication Ltd.** (partner of OEMs) | Manager, Network Solutions & Security | Network technology strategy · product development · oversaw the robustness of network and security solutions delivered to customers |
 | Dec 2016 – Dec 2019 | **Biometrics-BD Ltd.** (partner of OEMs) | Manager, Network Solutions | Configured and deployed routers, switches and firewalls · incident management and troubleshooting · **network upgrades and capacity planning** |
