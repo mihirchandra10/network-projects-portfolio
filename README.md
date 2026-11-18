@@ -37,7 +37,7 @@ Security-focused write-ups of the firewall projects: **[network-security-project
 
 ---
 
-## 🧭 Network operating systems
+## 🧭 Operating systems
 
 | Platform | Proficiency |
 |---|---|
